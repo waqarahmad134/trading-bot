@@ -1,0 +1,17 @@
+.cfhua {
+    background: linear-gradient(#a855f7, #a855f7) padding-box, linear-gradient(#a855f7, #e9d5ff 75%, transparent 100%) border-box;
+}
+.ctaxy::before {
+    content: var(--tw-content);
+    --tw-blur: blur(12px);
+    filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
+}
+.cnna9::before {
+    content: var(--tw-content);
+    --tw-bg-opacity: 1;
+    background-color: rgb(168 85 247 / var(--tw-bg-opacity));
+}
+.c1mpe::before {
+    content: var(--tw-content);
+    position: absolute;
+}
